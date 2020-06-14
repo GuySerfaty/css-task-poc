@@ -1,5 +1,5 @@
 
-# ![alt text](../logo.png)   My First Div
+# ![alt text](../logo-main.png)   My First Div
 The HTML Content Division element
 (\<div\>) is the generic container for flow content. It has no effect on the content or layout until styled using CSS
 

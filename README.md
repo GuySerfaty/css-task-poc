@@ -1,4 +1,4 @@
-# ![alt text](./logo.png)   Css Task Poc
+# ![alt text](./logo-main.png)   Css Task Poc
 
 ## Installation
 
