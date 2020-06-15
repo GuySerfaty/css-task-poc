@@ -1,5 +1,5 @@
 
-# ![alt text](../logo-main.png)   My First Div
+# ![alt text](../logo-main.png)   My First Table
 The HTML Table element (\<table\>) element represents tabular data — that is, information presented in a two-dimensional table comprised of rows and columns of cells containing data
 
 [For more details](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table)
