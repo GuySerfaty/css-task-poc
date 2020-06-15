@@ -5,10 +5,14 @@ The HTML Table element (\<table\>) element represents tabular data — that is, 
 [For more details](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table)
 
 ## Requirements 
-- The cell size should be 50px
-- Every 3 columns and rows should be grouped
-- Each cell should have a thin border
-- Each row should have a medium border
+- The caption should be beneath the table
+- Column and rows headers should have a thin and solid border
+- Use a color picker to determine the color of the cells
+- Regular cells should pnly have borders to thier sides
+- Upper right cell should not be visible
+- Column headers should be splitted and merged as in example
+- Group the two middle columns togther and set their color
+- Bonus: Dont use classes or ids
 
 ## Exepted state
 ![alt text](./expectedState.png)
